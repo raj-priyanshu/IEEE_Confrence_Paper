@@ -13,8 +13,8 @@ DOI:[ 10.1109/NPSC.2016.7858873 ] [ Co-Authored ]
 Published in: [2017 International Conference on Innovations in Electrical, Electronics, Instrumentation and Media Technology (ICEEIMT)]\
 DOI: [10.1109/ICIEEIMT.2017.8116871]
 
->-Description: Designing of the high efficiency high density LLC Converter and simulating and analyzingthe same in Simulink.
->-Abstract: This paper discusses the design and analysis of a 380/12 V DC-DC high efficient LLC converter having a power output of 750W. The ripple in output voltage is brought down to 0.09V. It works with an efficiency of 96.1 percent at full load, 97.2 percent efficiency at 50 percent load and 91.2 percent efficiency at 10 percent load. Since zero voltage and zero current switching are used, losses are reduced significantly. The step by step design procedure has been explained and finally a mathematical model has been proposed with results taken from simulations.
+>- Description: Designing of the high efficiency high density LLC Converter and simulating and analyzingthe same in Simulink.
+>- Abstract: This paper discusses the design and analysis of a 380/12 V DC-DC high efficient LLC converter having a power output of 750W. The ripple in output voltage is brought down to 0.09V. It works with an efficiency of 96.1 percent at full load, 97.2 percent efficiency at 50 percent load and 91.2 percent efficiency at 10 percent load. Since zero voltage and zero current switching are used, losses are reduced significantly. The step by step design procedure has been explained and finally a mathematical model has been proposed with results taken from simulations.
 
 
 
